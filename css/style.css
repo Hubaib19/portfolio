@@ -1771,6 +1771,9 @@ figure.dotted-bg:before {
   .unslate_co--footer .footer-site-social li {
     display: block;
   }
+  .unslate_co--footer .footer-site-social li a:hover, .unslate_co--footer .footer-site-social li a:focus {
+    color: #fff;
+  }
 }
 
 .unslate_co--footer .footer-site-social li a {
